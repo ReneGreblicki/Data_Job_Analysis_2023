@@ -112,7 +112,7 @@ ORDER BY salary_year_avg DESC;
 
 ### Findings
 
-Among the Top 10 highest-paying Data Analyst jobs:
+#### Among the Top 10 highest-paying Data Analyst jobs:
 
 | Skill     | Frequency |
 | --------- | --------: |
@@ -203,10 +203,7 @@ LIMIT 25;
 
 ### Findings
 
-![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
-*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
-
-Top-paying skills included:
+#### Top-paying skills included:
 
 | Skill        | Avg Salary |
 | ------------ | ---------: |
@@ -220,6 +217,9 @@ Top-paying skills included:
 | Kafka        |   $129,999 |
 | Hugging Face |   $123,950 |
 | Airflow      |   $116,387 |
+
+![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
+*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
 
 ---
 
