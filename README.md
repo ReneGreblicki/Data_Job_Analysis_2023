@@ -261,7 +261,7 @@ Instead, salaries increased significantly when analytics overlapped with:
 
 ---
 
-## Visualization
+## 📊 Visualisation
 
 ### Highest Paying Skill Categories
 
