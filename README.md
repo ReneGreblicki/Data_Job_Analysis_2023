@@ -72,13 +72,12 @@ LIMIT 10;
 ### Findings
 
 * Salaries ranged from **$184K to $650K**
-* Remote opportunities offered some of the highest compensation
-* Companies included major technology firms and financial organizations
+* Companies included major technology firms and financial organisations
 * Roles varied from Data Analyst to Director-level analytics positions
 
 ### Key Insight
 
-High salaries are not limited to senior management roles. Technical Data Analysts with specialized skills can command compensation comparable to leadership positions.
+High salaries are not limited to senior management roles. Technical Data Analysts with specialised skills can command compensation comparable to leadership positions.
 
 ---
 
@@ -127,7 +126,7 @@ Among the Top 10 highest-paying Data Analyst jobs:
 
 ### Key Insight
 
-SQL appeared in **100% of the highest-paying jobs**, making it the single most important skill in my analysis.
+SQL was the most frequently mentioned skill, appearing in 8 postings, making it the most prominent skill in this analysis.
 
 Python and Tableau followed closely, highlighting the growing importance of analytics automation and data storytelling.
 
@@ -203,6 +202,9 @@ LIMIT 25;
 ```
 
 ### Findings
+
+![Top Paying Skills](Assets/Top%20Paying%20Skills.png)
+*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
 
 Top-paying skills included:
 
