@@ -203,7 +203,7 @@ LIMIT 25;
 
 ### Findings
 
-![Top Paying Skills](project_sqyl/Assets/Top%20Paying%20Skills.png)
+![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)
 *Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
 
 Top-paying skills included:
