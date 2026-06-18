@@ -82,22 +82,6 @@ High salaries are not limited to senior management roles. Technical Data Analyst
 
 ---
 
-## Suggested Visualization
-
-### Top 10 Highest Paying Data Analyst Jobs
-
-```text
-Salary ($)
-
-650K | ██████████████████████████████
-500K | ███████████████████████
-400K | █████████████████
-300K | ███████████
-200K | ███████
-```
-
----
-
 ## 2️⃣ Skills Required for Top Paying Jobs
 
 ### SQL Used
