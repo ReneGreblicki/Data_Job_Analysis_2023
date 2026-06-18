@@ -218,9 +218,6 @@ LIMIT 25;
 | Hugging Face |   $123,950 |
 | Airflow      |   $116,387 |
 
-![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
-*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
-
 ---
 
 ### Emerging Trends
@@ -268,6 +265,8 @@ Instead, salaries increased significantly when analytics overlapped with:
 
 ### Highest Paying Skill Categories
 
+![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
+*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
 
 ---
 
