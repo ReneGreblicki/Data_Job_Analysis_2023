@@ -179,7 +179,7 @@ While advanced technologies receive attention, strong fundamentals remain essent
 
 ## 📊 Visualisation
 
-![Top Skills](project_sql/Assets/Top%20Skills.png  
+![Top Skills](project_sql/Assets/Top%20Skills.png]  
 *Bar chart of skill frequency in top 10 highest-paying data analyst jobs; ChatGPT generated this graph from my SQL query results.*
 
 ---
