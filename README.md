@@ -177,7 +177,7 @@ While advanced technologies receive attention, strong fundamentals remain essent
 
 ---
 
-## 📊 Visualisation
+## Visualisation
 
 ![Top Skills](project_sql/Assets/Top%20Skills.png)  
 *Bar chart of skill frequency in top 10 highest-paying data analyst jobs; ChatGPT generated this graph from my SQL query results.*
@@ -233,9 +233,7 @@ Instead, salaries increased significantly when analytics overlapped with:
 
 ---
 
-## 📊 Visualisation
-
-### Highest Paying Skill Categories
+## Highest Paying Skill Categories
 
 ![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
 *Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
