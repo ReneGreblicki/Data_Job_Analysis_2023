@@ -193,18 +193,8 @@ LIMIT 25;
 
 #### Top-paying skills included:
 
-| Skill        | Avg Salary |
-| ------------ | ---------: |
-| SVN          |   $400,000 |
-| Solidity     |   $179,000 |
-| Couchbase    |   $160,515 |
-| DataRobot    |   $155,486 |
-| Golang       |   $155,000 |
-| MXNet        |   $149,000 |
-| Terraform    |   $146,734 |
-| Kafka        |   $129,999 |
-| Hugging Face |   $123,950 |
-| Airflow      |   $116,387 |
+![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
+*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
 
 ---
 
@@ -216,13 +206,6 @@ Instead, salaries increased significantly when analytics overlapped with:
 
 ![Data Visualisation](project_sql/Assets/Data%20Visualisation.png)  
 *This visualisation was generated using ChatGPT based on findings from my analysis.*
-
----
-
-## Highest Paying Skill Categories
-
-![Top Paying Skills](project_sql/Assets/Top%20Paying%20Skills.png)  
-*Bar chart showing the salaries associated with the top 10 highest-paid data analyst skills; ChatGPT generated this graph from my SQL query results.*
 
 ---
 
