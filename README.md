@@ -349,7 +349,7 @@ I learned how to translate raw job-market data into actionable career insights.
 
 ---
 
-# 📈 Final Conclusions
+# Final Conclusions
 
 ## Key Findings
 
