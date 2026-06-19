@@ -10,11 +10,11 @@ Rather than relying on generic career advice, I analysed thousands of real-world
 
 This project explores:
 
-* 💰 Top-paying Data Analyst jobs
-* 🔥 Most in-demand Data Analyst skills
-* 📈 Skills associated with higher salaries
-* 🎯 The optimal skills to learn based on demand and compensation
-* 🚀 Emerging trends shaping the future of analytics careers
+* Top-paying Data Analyst jobs
+* Most in-demand Data Analyst skills
+* Skills associated with higher salaries
+* The optimal skills to learn based on demand and compensation
+* Emerging trends shaping the future of analytics careers
 
 ---
 
@@ -30,7 +30,7 @@ Through this project, I sought to answer five key questions:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool               | Purpose                             |
 | ------------------ | ----------------------------------- |
@@ -41,7 +41,7 @@ Through this project, I sought to answer five key questions:
 
 ---
 
-# 📌 Analysis
+# Analysis
 
 ---
 
@@ -228,7 +228,7 @@ A surprising discovery was that the highest-paying skills weren't traditional an
 
 Instead, salaries increased significantly when analytics overlapped with:
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 * DataRobot
 * PyTorch
@@ -237,27 +237,27 @@ Instead, salaries increased significantly when analytics overlapped with:
 * Hugging Face
 * MXNet
 
-### ⚙️ Data Engineering
+### Data Engineering
 
 * Kafka
 * Airflow
 * Cassandra
 * Couchbase
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 * Terraform
 * Ansible
 * Puppet
 * VMware
 
-### 💻 Software Engineering
+### Software Engineering
 
 * GitLab
 * Bitbucket
 * Golang
 
-### 🔗 Emerging Technologies
+### Emerging Technologies
 
 * Solidity (Blockchain)
 
@@ -325,7 +325,7 @@ These skills deliver both strong market demand and above-average compensation.
 
 ---
 
-# 🚀 What I Learned
+# What I Learned
 
 Throughout this project, I strengthened several core analytical skills:
 
@@ -349,7 +349,7 @@ I learned how to translate raw job-market data into actionable career insights.
 
 ---
 
-# 📈 Final Conclusions
+# Final Conclusions
 
 ## Key Findings
 
