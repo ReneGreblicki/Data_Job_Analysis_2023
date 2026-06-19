@@ -30,7 +30,7 @@ Through this project, I sought to answer five key questions:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool               | Purpose                             |
 | ------------------ | ----------------------------------- |
