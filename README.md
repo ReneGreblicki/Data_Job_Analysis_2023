@@ -228,38 +228,8 @@ A surprising discovery was that the highest-paying skills weren't traditional an
 
 Instead, salaries increased significantly when analytics overlapped with:
 
-### AI & Machine Learning
-
-* DataRobot
-* PyTorch
-* TensorFlow
-* Keras
-* Hugging Face
-* MXNet
-
-### Data Engineering
-
-* Kafka
-* Airflow
-* Cassandra
-* Couchbase
-
-### Cloud & DevOps
-
-* Terraform
-* Ansible
-* Puppet
-* VMware
-
-### Software Engineering
-
-* GitLab
-* Bitbucket
-* Golang
-
-### Emerging Technologies
-
-* Solidity (Blockchain)
+![Data Visualisation](project_sql/Assets/Data%20Visualisation.png)  
+*This visualization was generated using ChatGPT based on findings from my analysis.*
 
 ---
 
