@@ -114,15 +114,8 @@ ORDER BY salary_year_avg DESC;
 
 #### Among the Top 10 highest-paying Data Analyst jobs:
 
-| Skill     | Frequency |
-| --------- | --------: |
-| SQL       |         8 |
-| Python    |         7 |
-| Tableau   |         6 |
-| R         |         4 |
-| Snowflake |         3 |
-| Pandas    |         3 |
-| Excel     |         3 |
+![Top Skills](project_sql/Assets/Top%20Skills.png)  
+*Bar chart of skill frequency in top 10 highest-paying data analyst jobs; ChatGPT generated this graph from my SQL query results.*
 
 ### Key Insight
 
@@ -174,13 +167,6 @@ The modern analyst toolkit continues to be built around:
 * Power BI
 
 While advanced technologies receive attention, strong fundamentals remain essential.
-
----
-
-## Visualisation
-
-![Top Skills](project_sql/Assets/Top%20Skills.png)  
-*Bar chart of skill frequency in top 10 highest-paying data analyst jobs; ChatGPT generated this graph from my SQL query results.*
 
 ---
 
